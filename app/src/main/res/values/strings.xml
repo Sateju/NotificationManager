@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notification Manager</string>
+    <string name="add_notification">Add Notification</string>
+    <string name="add_custom_notification">Add custom Notification</string>
+    <string name="a_body">A body</string>
+    <string name="a_footnote">A footnote</string>
+    <string name="a_title">A title</string>
+    <string name="image_of_messenger">Image of messenger</string>
+</resources>
